@@ -23,3 +23,6 @@
   - MySQL  
 
 ## 🗂️ Modelagem do Banco de Dados
+
+<img scr="logico-drielso.png"/>
+<img scr="conceitual-drielso.png"/>
